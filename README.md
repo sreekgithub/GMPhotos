@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GMImagePicker
 =============
 
@@ -160,3 +161,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+=======
+# GMPhotos
+>>>>>>> 7c7e53b3c8f6a57712c81dc8594c69e908892336
